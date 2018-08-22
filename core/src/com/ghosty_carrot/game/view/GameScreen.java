@@ -18,7 +18,7 @@ public class GameScreen implements Screen {
 
         batch = new SpriteBatch();
         CharTexture = new Texture("Guide.png");
-        aChar = new Char(CharTexture,30,0,400,400);
+        aChar = new Char(CharTexture,50,0,400,400);
 
     }
 
